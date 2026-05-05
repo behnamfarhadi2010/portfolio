@@ -8,7 +8,7 @@ Check out a real-world example: [behnamfarhadi.vercel.app](https://behnamfarhadi
 
 ![Astro Developer Portfolio Template - About Preview | Behnam Farhadi](src/assets/behnam.png)
 
-![Astro Developer Portfolio Template - Projects Preview | Behnam Farhadi](assets/preview-projects.png)
+![Astro Developer Portfolio Template - Projects Preview | Behnam Farhadi](src/assets/behnam-project.png)
 
 ## Features
 
