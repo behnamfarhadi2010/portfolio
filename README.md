@@ -4,9 +4,9 @@ A minimal, easy-to-customize developer portfolio template built with [Astro](htt
 
 ## Demo
 
-Check out a real-world example: [devidev.io](https://devidev.io)
+Check out a real-world example: [behnamfarhadi.vercel.app](https://behnamfarhadi.vercel.app/)
 
-![Astro Developer Portfolio Template - About Preview | Behnam Farhadi](assets/preview-about.png)
+![Astro Developer Portfolio Template - About Preview | Behnam Farhadi](src/assets/behnam.png)
 
 ![Astro Developer Portfolio Template - Projects Preview | Behnam Farhadi](assets/preview-projects.png)
 
